@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Nick+Cavalcante;I'm+28+years+old;I'm+from+Brazil;I'm+ a+Java+Fullstack+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8000000size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Nick+Cavalcante;I'm+28+years+old;I'm+from+Brazil;I'm+ a+Java+Fullstack+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nichbreeze&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -25,7 +25,7 @@
   
   
   
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nichbreeze&bg_color=000000&color=9e4c4c&line=4d0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nichbreeze&bg_color=000000&color=9f2d2d&line=4d0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
